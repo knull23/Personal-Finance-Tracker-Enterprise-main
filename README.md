@@ -97,6 +97,7 @@ The app will be available at http://localhost:3000.
 | UI/UX Design           | 30%    |
 
 📸 Screenshots
+
 <img width="702" height="690" alt="image" src="https://github.com/user-attachments/assets/047b67d2-f861-414d-98c1-da859abd3bb5" />
 <img width="808" height="735" alt="image" src="https://github.com/user-attachments/assets/90bb8a3b-8526-41f0-a8eb-eb9ef5be902b" />
 ![image](https://github.com/user-attachments/assets/26c3529c-c742-4a97-8a18-bf5d44248466)
